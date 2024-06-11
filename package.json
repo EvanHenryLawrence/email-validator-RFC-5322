@@ -1,6 +1,6 @@
 {
   "name": "email-validator-rfc-5322",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Evan Lawrence <evan@loglive.ai>",
   "description": "Provides a fast, pretty robust e-mail validator. Only checks form, not function.",
   "main": "index.js",
@@ -16,15 +16,10 @@
     "email",
     "validation",
     "validator",
-    "syntax"
+    "syntax",
+    "RFC-5322"
   ],
   "homepage": "https://github.com/EvanHenryLawrence/email-validator-RFC-5322",
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/EvanHenryLawrence/email-validator-RFC-5322/raw/master/LICENSE"
-    }
-  ],
   "contributors": [
     {
       "name": "Evan Lawrence",
