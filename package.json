@@ -1,11 +1,11 @@
 {
   "name": "email-validator-rfc-5322",
-  "version": "1.0.4",
+  "version": "1.1.4",
   "author": "Evan Lawrence <evan@loglive.ai>",
   "description": "Provides a fast, pretty robust e-mail validator. Only checks form, not function.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test.js"
+    "test": "mocha test.mjs"
   },
   "typings": "index.d.ts",
   "engines": {
@@ -32,7 +32,7 @@
     "url": "https://github.com/EvanHenryLawrence/email-validator-RFC-5322.git"
   },
   "devDependencies": {
-    "chai": "4.3.7",
-    "mocha": "10.2.0"
+    "chai": "5.1.1",
+    "mocha": "10.4.0"
   }
 }

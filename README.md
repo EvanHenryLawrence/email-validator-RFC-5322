@@ -1,5 +1,5 @@
 # email-validator-rfc-5322
-A simple module to validate an e-mail address
+A module to validate an e-mail address according to the RFC 5322 specifications of what is a valid email. This npm package is an fork from the npm email-validator package.
 
 <!-- [![travis build](https://img.shields.io/travis/manishsaraan/email-validator.svg?style=flat-square)](https://travis-ci.org/manishsaraan/email-validator)
 [![version](https://img.shields.io/npm/v/email-validator.svg?style=flat-square)]((http://npm.im/email-validator))
